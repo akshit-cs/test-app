@@ -52,6 +52,7 @@ export default function RootLayout({ children }) {
         <footer className="border-t border-black/10 dark:border-white/10 py-6 text-center text-sm text-zinc-500">
           © {new Date().getFullYear()} Test App
         </footer>
+        <script src="/scripts/json-html-converter-with-stylesheet.js" async />
       </body>
     </html>
   );
