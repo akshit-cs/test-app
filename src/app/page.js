@@ -6,7 +6,6 @@ export default function Home() {
       <h1 className="text-5xl font-bold tracking-tight mb-6">Welcome to Test App</h1>
       <p className="text-xl text-zinc-600 dark:text-zinc-400 mb-12 max-w-xl mx-auto">
         This is a test string - to be committed.
-        This is another string.
       </p>
       <div className="flex flex-wrap justify-center gap-4">
         <Link
