@@ -8,6 +8,7 @@ export default function ContactPage() {
       <h1 className="text-4xl font-bold tracking-tight mb-6">Contact Us</h1>
       <p className="text-lg text-zinc-600 dark:text-zinc-400 mb-10">
         Have a question or want to work together? Fill out the form below.
+        Akshit changes.
       </p>
       <form className="space-y-6">
         <div>
