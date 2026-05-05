@@ -7,6 +7,7 @@ export default function Home() {
       <p className="text-xl text-zinc-600 dark:text-zinc-400 mb-12 max-w-xl mx-auto">
         A simple, clean website. Explore our pages to learn more.
         I am about to make some changes to this.
+        AGENT AGENT.
       </p>
       <div className="flex flex-wrap justify-center gap-4">
         <Link
