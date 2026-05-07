@@ -1,8 +1,4 @@
 this is coming from the main branch
-<<<<<<< HEAD
 this is a change in the local file (checking for merge conflicts)
 meow
 local
-=======
-this is a change only in main (checking for merge conflicts)
->>>>>>> origin/main
