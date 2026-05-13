@@ -1,2 +1,18 @@
+<<<<<<< HEAD
 this is a sample text
 this
+=======
+this
+this is coming from the main branch
+and this
+this is a change only in the main branch
+
+this again
+
+meow meow meow
+
+something that serves as a sample
+
+
+yayyy
+>>>>>>> origin/main
