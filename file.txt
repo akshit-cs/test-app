@@ -21,4 +21,8 @@ wait a minute
 
 hold on hold on
 
+<<<<<<< Updated upstream
 some change 
+=======
+ooooo oooo oooo oooo oooo ooo
+>>>>>>> Stashed changes
